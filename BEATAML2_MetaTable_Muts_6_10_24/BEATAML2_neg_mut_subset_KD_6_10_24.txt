@@ -1,0 +1,268 @@
+sample	consensusAMLFusions	otherCytogenetics	NPM1	TP53
+BA2452R		Normal	positive	
+BA2480R		Normal	positive	
+BA3037R		Normal	positive	
+BA2236R		80% Trisomy 21	positive	
+BA2865R		"While the chromosome 17 breakpoint is clearly within band 17q21 by metaphase chromosome analysis, these results suggest that it is not within the RARA gene"	positive	
+BA2003R		Normal	positive	
+BA2068R		"nuc ish(D5S721,D5S23,EGR1)x2[200],(D7Z1,D7S522)x2[199],(D8Z2,D20S108)x2[200],(RUNX1T1,RUNX1)x2[200],"	positive	
+BA2104R		trisomy 8 (Specimen Source: Blood)	positive	
+BA2449R	RUNX1-RUNX1T1	"91.5% AML/ETO fusion, t(8;21)"	negative	
+BA2802R		Deleted 5q	negative	TP53 (p.V216M; 66.9%)
+BA2235R		normal	positive	
+BA3006R			positive	
+BA2239R		normal	positive	
+BA2782R		Normal	positive	
+BA2909R	RUNX1-RUNX1T1	t(8;21) (34%) | t(8;21) and der(7)t(7;8) (56%) | Missing D7S486 signal (70%)	negative	
+BA2653R		"Extra signals were observed for BCR (22q11.2), PML (15q22), MLL (11q23),     RUNX1T1 (8q21.3) and RUNX1 (21q22) in roughly 45-60% of interphase cells.     These results suggest the presence of a hyperdiploid clone."	negative	
+BA2947R	RUNX1-RUNX1T1	RUNX1T1/ RUNX1 fusion and t(8;21) (94%)	negative	
+BA2032R		"nuc ish(RUNX1T1,RUNX1)x2[199],(5'MLL,3'MLL)x2 (5'MLL con 3'MLLx2)[198],(PML,RARA)x2[199],(5'CBFB,3'CBFB)x2(5'CBFB con 3'CBFBx2)[200]"	positive	
+BA2106R			positive	
+BA2939R			positive	
+BA2525R			positive	TP53
+BA2546R		Extra MLL signal (5%) | 5q deletion (95%) | Abnormal 9q (33%) | Partial deletion of RUNX1 (34%)	negative	TP53 (p.X307_splice; 46.6%)|TP53 (p.R273S; 40.4%)
+BA2910R			positive	
+BA3178R	MLLT3-KMT2A	"8q22 (RUNX1T1): gain of two copies present  11q23 (MLL): rearrangement present (95% RUNX, 91% MLL)"	negative	
+BA3029R			positive	
+BA2735R		"nuc ish(RUNX1T1,RUNX1)x2[200],(5'MLL,3'MLL)x2(5'MLL con 3'MLLx2) [200],(PML,RARA)x2[200],(5'CBFB,3'CBFB)x1(5'CBFB con 3'CBFBx1)[31/200]"	positive	
+BA2069R	MLLT3-KMT2A	MLL rearrangement and t(9;11) (86%)	positive	
+BA2634R		"normal, no evidence of RUNX1T1/RUNX1 transloc or 11q23 or 16q22"	negative	
+BA2937R		Monosomy 5 (52%) | 5p deletion (39%) | Monosomy 7 (48%) | Abnormal 7q arm (48%)	negative	TP53 (p.R248Q; 96.4%)
+BA2019R		Normal	negative	TP53 (p.R282W; 72.5%)
+BA2412R			negative	TP53 (p.R248W; 72.2%)
+BA2418R			positive	
+BA2294R	RUNX1-RUNX1T1		negative	
+BA2814R	MLLT3-KMT2A	"8q22 (RUNX1T1): gain present  11q23 (MLL): rearrangement present (83.5% 11q23, 84.5% 8q22)"	negative	
+BA2631R		Normal	positive	
+BA2485R		Normal	positive	
+BA2455R			positive	
+BA2325R			positive	
+BA2871R			negative	TP53 (p.R306*; 28.8%)|TP53 (p.X187_splice; 21.9%)
+BA2125R		5q deletion (85%) | Loss of RARA on 17q21 (46%)	negative	TP53 (p.V173M; 77.4%)
+BA2603R		Normal	positive	
+BA2822R		Extra chromosome 5 (98%) | 5q deletion (98%) | Monosomy 16 (93%) | Extra copies of chromosome 21 (63%) | Monosomy 17 (99%) | Extra chromosome 11 (99%)	negative	TP53 (p.R273H; 90.9%)
+BA2594R		Previous FISH results were consistent with the deleted 5q and trisomy 9	negative	TP53 (p.H193R; 90.7%)
+BA2474R		Normal	positive	
+BA2065R		Normal	positive	
+BA2737R	RUNX1-RUNX1T1	"nuc ish(D5S721,D5S23,EGR1)x2[200],(D7Z1,D7S522)x2[200],(D8Z2,D20S108)x2[200], (5'MLL,3'MLL)x2(5'MLL con 3'MLLx2)[199],(RUNX1T1x3,RUNX1x2)[69/200]/(RUNX1T1x2,RUNX1x3)[7/200],(PML,RARA)x2 [200],(5'CBFB,3'CBFB)x2(5'CBFB con 3'CBFBx2)[200]"	negative	
+BA2463R	RUNX1-RUNX1T1	"nuc ish(D5S721,D5S23,EGR1)x2[200],(D7Z1,D7S522)x2[200],(D8Z2,D20S108)x2[200], (5'MLL,3'MLL)x2(5'MLL con 3'MLLx2)[199],(RUNX1T1x3,RUNX1x2)[69/200]/(RUNX1T1x2,RUNX1x3)[7/200],(PML,RARA)x2 [200],(5'CBFB,3'CBFB)x2(5'CBFB con 3'CBFBx2)[200]"	negative	
+BA2110R		Normal	positive	
+BA2220R		Low-level tetraploidy or near-tetraploidy (5%)	negative	TP53 (p.G245S; 83.1%)
+BA2720R		Low-level tetraploidy or near-tetraploidy	negative	TP53 (p.G245S; 89.1%)
+BA2772R		"nuc ish(D4Z1,D10Z1)x2[200],(ABL1,BCR)x2[200],(5'MLL,3'MLL)x2(5'MLL con 3'MLLx2)[200],(ETV6,RUNX1)x2[200]"	positive	
+BA3296R		"MLL (11q23): Ê 88% of cells had a 0r1g1f split signal pattern consistent with rearrangement|9p21: 76% of cells were missing both signals for 9p21, consistent with homozygous deletion of 9p21|ETV6 (12p13): 68% of cells had an extra signal for ETV6 (Solid Tissue/Skin)"	negative	
+BA2619R		"Trisomy 9 (88%) | Missing ERG1 signal (75%) | 2 small red/2 \normal\\ red pattern with the PML probe (79%) | Trisomy 11 and i(11q) (92%) | Tetrasomy 8 (87%) | Trisomy 16 (81%)\\\"""""	negative	TP53 (p.R280T; 41.1%)|TP53 (p.X33_splice; 37.9%)
+BA2856R		Normal	positive	
+BA2377R	MLLT3-KMT2A	"nuc ish(ABL1,BCR)x2[200],(5'MLL,3'MLL)x2(5'MLL sep 3'MLLx1)[189/200],(PML,RARA)x2 [200],(5'CBFB,3'CBFB)x2(5'CBFB con 3'CBFBx2)[198]"	positive	
+BA3023R			positive	
+BA2275R		"EGR1/5p; 88% , consistent with monosomy 5  | D7S486; 96% , consistent with deletion 7q  | BCR; 84% of cells had three signals for BCR (22q11.2)| MLL; 28% of cells had three intact signals for MLL, while another 76% of cells had four intact signals. "	negative	TP53 (p.R248Q; 95.8%)
+BA2901R		IGH-MYEOV and IGH-CCND1 rearrangement; MAF unlisted	positive	
+BA2195R			negative	TP53 (p.I195T; 22.2%)|TP53 (p.P151R; 54.8%)
+BA2354R	RUNX1-RUNX1T1	"RUNX1T1/RUNX1: Ê 94% of cells had the dual fusion signal pattern consistent with RUNX1T1/RUNX1 fusion and t(8;21), as seen on metaphase analysis."	negative	
+BA2893R		Normal	positive	
+BA2054R		consistent with karyotype (68% del 17p13)	positive	
+BA2902R			positive	
+BA2870R		"1p36/1q25: 81% of cells had three signals for 1q25 and two for 1p36, consistent with the larger clone above (ie. the clone with add(1)(p22). Another 13% of cells had four signals for 1q25 and two signals for 1p36, consistent with the smaller clone above (ie. the clone with the i(1)(q10))."	positive	
+BA2789R		Normal	positive	
+BA2722R			negative	TP53 (p.P151S; 96.9%)
+BA2806R			positive	
+BA2523R			positive	
+BA3027R		Gain of 8 (4/301 cells); Gain of 8q22/21q22 (7.7/301 cells); Gain 11q23 (5/200 cells)	negative	TP53 (p.S215R; 15.2%)
+BA2441R		deleted 5q and three short arm signals; monosomy 7 and the metaphase karyotype; no evidence for MLL deletion or rearrangement	negative	TP53 (p.R273H; 53.6%)|TP53 (p.G105D; 52.9%)
+BA2514R		"nuc ish(DXZ1x2)[182]//(DXZ1,DYZ3)x1[18]. nuc ish(D5S2064,D5S630,EGR1)x2[197],(D7Z1,D7S522)x2[200],(D8Z2,D20S108)x2[200],(RUNX1T1,RUNX1)x2 [200],(5'MLL,3'MLL)x2(5'MLL con 3'MLLx2)[200],(PML,RARA)x2[200],(5'CBFB,3'CBFB)x2(5'CBFB con 3'CBFBx2) [200]"	negative	TP53 (p.R283C; 47.5%)
+BA2695R		"nuc ish(DXZ1x2)[181]//(DXZ1,DYZ3)x1[19] nuc ish(RUNX1T1,RUNX1)x2[199],(5'MLL,3'MLL)x3(5'MLL con 3'MLLx3)[176/200],(PML,RARA)x2[196], (5'CBFB,3'CBFB)x2(5'CBFB con 3'CBFBx2)[199]"	negative	TP53 (p.R283C; 45.1%)
+BA2479R			positive	
+BA2123R		"nuc ish(D5S2064,D5S630,EGR1)x2[200],(D7Z1,D7S522)x2[200],(D8Z2,D20S108)x2[199](RUNX1T1, RUNX1)x2[199],(5'MLL,3'MLL)x2(5'MLL con 3'MLLx2)[200],(PML,RARA)x2[200],(5'CBFB,3'CBFB)x2(5'CBFB con 3'CBFBx2)[200]"	positive	
+BA2836R		"nuc ish(RUNX1T1,RUNX1)x2[200],(5'MLL,3'MLL)x2(5'MLL con 3'MLLx2)[200],(PML,RARA)x2[200], (5'CBFB,3'CBFB)x2(5'CBFB con 3'CBFBx2)[200]"	positive	
+BA2714R		Normal	positive	
+BA3317R		Normal	positive	
+BA2036R			positive	
+BA2410R		Normal	positive	
+BA2139R			positive	
+BA2986R		"All probe results were within normal laboratory limits.      *Note: while it was not disrupted, MLL (11q23) was observed on the end of      the derivative chromosome 1 on available metaphase cells, reflecting the      t(1;11)."	negative	
+BA2970R		"nuc ish(RUNX1T1,RUNX1)x2[200],(5'MLL,3'MLL)x2(5'MLL con 3'MLLx2)[200],(PML,RARA)x2[199], (5'CBFB,3'CBFB)x2(5'CBFB con 3'CBFBx2)[200]"	positive	
+BA2093R		"EGR-1/ D5S23, D5S721: 60/100 cells (60%) had a 1 red/ 2 green signal pattern, indicating a deleted 5q, consistent with the first clone, above; 38 cells (38%) had a 2 red/ 4 green signal pattern, consistent with two copies of the deleted 5q in the second clone."	negative	TP53 (p.X187_splice; 40.1%)|TP53 (p.X125_splice; 28.4%)
+BA2425R			negative	TP53 (p.L130Pfs*19; 33.3%)
+BA2905R		35% gain of 11q23	negative	
+BA2304R	MLLT3-KMT2A	11q23 (MLL): rearrangement present (89.5%)	negative	
+BA2386R		"nuc ish(D4Z1,D10Z1)x2[200],(RUNX1T1,RUNX1)x2[200],(ABL1,BCR)x2[200],(5'MLL,3'MLL)x2(5'MLL con 3'MLLx2)[200],(ETV6,RUNX1)x2[200],(PML,RARA)x2[200],(5'CBFB,3'CBFB)x2(5'CBFB con 3'CBFBx2)[200]"	positive	
+BA3400R		"nuc ish(D4Z1,D10Z1)x2[200],(RUNX1T1,RUNX1)x2[200],(ABL1,BCR)x2[200],(5'MLL,3'MLL)x2(5'MLL con 3'MLLx2)[200],(ETV6,RUNX1)x2[200],(PML,RARA)x2[200],(5'CBFB,3'CBFB)x2(5'CBFB con 3'CBFBx2)[200]"	positive	
+BA2201R		Normal	positive	
+BA2113R		"EGR1 (5q31): 73% of cells were missing a signal for EGR1 (5q31), consistent with the deletion seen on metaphase analysis.  TP53 (17p13.1): 71% of cells were missing a signal for TP53 (17p13.1), consistent with the deletion seen on metaphase analysis.  RUNX1 (21q22): 77% of cells had three signals fo"	negative	TP53 (p.R248Q; 53.3%)
+BA2155R		"nuc ish(D5S2064,D5S630,EGR1)x2[199],(D7Z1, D7S522)x2[199],(D8Z2,D20S108)x2[200],(RUNX1T1,RUNX1)x2[200],(5'MLL,3'MLL)x2(5'MLL con 3'MLLx2)[200], (PML,RARA)x2[200],(5'CBFB,3'CBFB)x2(5'CBFB con 3'CBFBx2)[200]"	negative	TP53 (p.X187_splice; 30.4%)
+BA2020R		Normal	positive	
+BA2226R		Normal	positive	
+BA2376R		Normal	positive	
+BA2200R			positive	
+BA2121R	RUNX1-RUNX1T1	RUNX1T1/RUNX1: (92%)	negative	
+BA2944R	RUNX1-RUNX1T1	62% t(8;21) (RUNX1T1;RUNX1) translocation present	negative	
+BA2033R		"FISH assays were positive for loss of 5q31 sequences in 85.5% of cells, positive for findings consistent with trisomy 8 in 49% of cells, and positive for findings consistent with monosomy 7 in around 8% of cells."	negative	TP53 (p.P151H; 97.9%)
+BA2224R		EGR1 (73.5%) ;  TP53: (85.5%)	negative	TP53 (p.G266V; 65.7%)
+BA2470R		EGR1 (73.5%) ;  TP53: (85.5%)	negative	TP53 (p.G266V; 91.4%)
+BA2978R	RUNX1-RUNX1T1	"All twenty-three metaphase cells examined were abnormal, with t(8;21), leading to RUNX1/RUNX1T1 fusion.   Two subclones, comprising 6 cells total, had an additional copy of the der(21)."	negative	
+BA2829R		normal	positive	
+BA2579R		normal	positive	
+BA2249R		normal	positive	
+BA2024R		Normal	positive	
+BA2271R		RUNX1 (21q22): 89% of cells had three signals for RUNX1 (21q22) consistent with the three copies of chromosome 21 seen on metaphase analysis.	positive	
+BA3004R		Normal	positive	
+BA2662R		Normal	positive	
+BA2280R		Normal	positive	
+BA2277R		Normal	positive	
+BA2512R		Normal	positive	
+BA2981R			negative	TP53 (p.R175H; 91.7%)
+BA2483R	KMT2A_re	"RUNX1/RUNX1T1/CEP8: 81% of cells had three signals for all probes, consistent with +8 and +21, as seen on metaphase analysis.  MLL: 68% of cells had a split signal pattern consistent with MLL (11q23) rearrangement. Disruption of MLL was not apparent on banded chromosomes and the partner remains unkn"	negative	
+BA3002R	KMT2A_re	"RUNX1/RUNX1T1/CEP8: 81% of cells had three signals for all probes, consistent with +8 and +21 MLL: 68% of cells had a split signal pattern consistent with MLL (11q23) "	negative	
+BA2242R		normal	positive	
+BA2846R		Normal	positive	
+BA2521R		Normal	positive	
+BA2885R		Normal	positive	
+BA2775R		Normal	positive	
+BA2004R		"EGR-1/ D5S23, D5S721: 58/200 cells (29%) had a 1 red/ 2 green signal pattern, consistent with a deleted 5q. D7S522/CEP 7: 38/200 cells (19%) had a 1 red/ 2 green signal pattern, consistent with a deleted 7q. CBFB: 40/200 cells (20%) had a single signal indicating deleted 16q22. TP53/CEP 17: 12/200 c"	negative	TP53 (p.V272_R273insL; MAF 75%)
+BA3001R		Normal	positive	
+BA2911R		normal	positive	
+BA3040R		"COMPLEX DEL(5q)/DEL(7q)/-7 CLONE OBSERVED, CONSISTENT WITH AML"	negative	TP53 (p.Y220C; 48.0%)|TP53 (p.F113V; 39.4%)
+BA2724R		"nuc ish(D5S2064,D5S630,EGR1)x2[200],(D7Z1,D7S522)x2[200],(D8Z2,D20S108)x2[200],(RUNX1T1, RUNX1)x2[200],(5'MLL,3'MLL)x2(5'MLL con 3'MLLx2)[200],(PML,RARA)x2[200],(5'CBFB,3'CBFB)x2(5'CBFB con 3'CBFBx2)[200]"	positive	
+BA2233R		"D5S721, EGR1 Êdel(5q)/monosomy 5, D7Z1, D7S522  del(7q)/monosomy 7, D8Z2 trisomy #8, D20S108, 20qter del(20q)   "	positive	
+BA2744R		Normal	positive	
+BA2301R		Normal	positive	
+BA2133R			positive	
+BA2473R		This test has not detected clonal abnormalities in the cells analyzed. Subtle structural changes cannot be ruled out due to the limitations of resolution. Small percentage of tumor cells with chromosome abnormalities may not be detected due to the limited number of cells examined. (Cytogenetics)	positive	
+BA2477R		Normal	positive	
+BA2244R		Normal	positive	
+BA3089R		Normal	positive	
+BA2273R		The translocations commonly seen in AML are not detected. Loss of RARA and CBFB genes are detected in 14-39% of cells.	negative	TP53 (p.Y220C; 42.0%)
+BA2124R		Normal	positive	
+BA2400R		Normal	positive	
+BA2762R		"nuc ish(D5S2064,D5S630,EGR1)x2[199],(D7Z1,D7S522)x2[200],(D8Z2,D20S108)x2[200],(RUNX1T1,RUNX1)x2[199],(5'MLL,3'MLL)x2(5'MLL con 3'MLLx2)[200],(PML,RARA)x2[200],(5'CBFB,3'CBFB)x2(5'CBFB con3'CBFBx2)[200]"	positive	
+BA2813R		Normal	positive	
+BA2211R		normal	positive	
+BA2171R		Normal	positive	
+BA2746R		Normal	positive	
+BA2588R		Normal	positive	
+BA2300R		5q31 (EGR1): deletion present  8q22 (RUNX1T1): gain present  11q23 (KMT2A; also known as MLL): gain present 	negative	TP53 (p.X225_splice; 93.2%)
+BA2240R			positive	
+BA2306R	RUNX1-RUNX1T1		negative	
+BA2842R	RUNX1-RUNX1T1	RUNX1/RUNX1T1 fusion positive in 6.5% of cells	negative	
+BA2726R		Normal	positive	
+BA2228R		"nuc ish(D5S2064,D5S630,EGR1)x2[200],(D7Z1,D7S522)x2[200],(D8Z2,D20S108)x2[200],(RUNX1T1, RUNX1)x2[200],(5'MLL,3'MLL)x2(5'MLL con 3'MLLx2)[200],(PML,RARA)x2[200],(5'CBFB,3'CBFB)x2(5'CBFB con 3'CBFBx2)[200]"	positive	
+BA2656R			positive	
+BA2705R		Negative	positive	
+BA2764R		Translocation between the long arm of chromosome 3 and short arm of chromosome 12.	positive	
+BA2261R		"nuc ish(D5S2064x2,D5S630x2,EGR1x1)[184/200],(D7Z1x2,D7S522x1)[115/200],(D8Z2x2,D20S108x1)[142/200],(RUNX1T1x3,RUNX1x2)[180/200],(5'MLL amp,3'MLL amp)(5'MLL con 3'MLL amp)[66/200],(PML,RARA)x2[197],(5'CBFB,3'CBFB)x2(5'CBFB con 3'CBFBx2)[200]"	negative	TP53 (p.R213Dfs*34; 85.5%)
+BA2715R		"nuc ish(D5S2064x3,D5S630x3,EGR1x1)[97/200],(D7Z1,D7S522)x2[200],(D8Z2,D20S108)x2[200],(RUNX1T1x3,RUNX1x2)[110/200],(5'MLL,3'MLL)x2(5'MLL con 3'MLLx2)[200],(PML,RARA)x2[200],(5'CBFB,3'CBFB)x2(5ÕCBFB con 3ÕCBFB dimx1,5ÕCBFB con 3ÕCBFBx1)[200]"	negative	TP53 (p.R273H; 39.7%)|TP53 (p.L206Wfs*41; 32.4%)
+BA2116R		"nuc ish(D5S2064x3,D5S630x3,EGR1x1)[97/200],(D7Z1,D7S522)x2[200],(D8Z2,D20S108)x2[200],(RUNX1T1x3,RUNX1x2)[110/200],(5'MLL,3'MLL)x2(5'MLL con 3'MLLx2)[200],(PML,RARA)x2[200],(5'CBFB,3'CBFB)x2(5ÕCBFB con 3ÕCBFB dimx1,5ÕCBFB con 3ÕCBFBx1)[200]"	negative	TP53 (p.R273H; 56.3%)|TP53 (p.L206Wfs*41; 40.7%)
+BA2269R			negative	TP53 (p.R282Q; 46.6%)
+BA2098R		Normal	positive	
+BA2778R		Normal	positive	
+BA2163R		"5p/5q: 88/100 (88%) cells had one signal for EGR1 (5q31) and three signals for 5p, consistent with the metaphase karyotype; 5 cells (5%) had one EGR1 signal and four 5p signals, consistent with a previous sideline with three copies of the dicentric 5;8 chromosome.   | BCR: 15/200 (7.5%) cells had three signals for BCR (22q11.2) consistent with a previous sideling that had trisomy 22 (the same sideline with three copies of the dicentric 5;8 chromosome). There was no evidence for BCR/ABL fusion. "	negative	TP53 (p.K132R; 39.4%)|TP53 (p.X126_splice; 51.3%)
+BA2820R		normal	positive	
+BA2704R		Normal	positive	
+BA3139R		"84.5% of cells were missing a signal for EGR1, consistent with 5q deletion, and as seen previously. "	negative	TP53 (p.M340Cfs*5; 41.0%)|TP53 (p.R273H; 47.8%)
+BA3285R		"84.5% of cells were missing a signal for EGR1, consistent with 5q deletion, and as seen previously. "	negative	TP53 (p.M340Cfs*5; 50.0%)|TP53 (p.R273H; 42.2%)
+BA2584R	KMT2A_re	11q23 rearrangement involving the  KMT2A (MLL) locus in 184/200 (92.0 percent) cells scored | One cell line showed the following clonal abnormalities in 19/20 (95%) cells: an apparent insertion of material form the long arm of chromosome 11 into the short arm of chromosome 10;  a translocation between chromosomes 3 and 17; added material on the long arm of chromosome 4 and on the short arm of chromosome 5; an unbalanced whole arm rearrangement between the long arms of chromosomes 12	negative	
+BA3079R		"5p15.2 (D5S23): gain present  5q31 (EGR1): deletion present  7cen (D7Z1), 7q31 (D7S486): deletion and monosomy present  | t(8;21)(q22;q22) (RUNX1T1;RUNX1): gain present  11q23 (KMT2A; also known as MLL): gain present  16q22 (CBFB): gain present  17q21 (RARA): gain present  "	negative	TP53 (p.N239*; 57.9%)
+BA2450R		"metaphases positive for 45XX monosomy chromosome 17,20/22 metaphases positive for 46XX diploid"	positive	
+BA2994R		"metaphases positive for 45XX monosomy chromosome 17,20/22 metaphases positive for 46XX diploid"	positive	
+BA2824R		Positive	positive	
+BA3099R		Normal	positive	
+BA2552R			positive	
+BA2456R		"nuc ish (PML,RARA)x2[199]"	positive	
+BA2563R		Normal	positive	
+BA3164R		Normal	positive	
+BA3235R			positive	
+BA2984R		Normal	positive	
+BA2776R		Normal	positive	
+BA2218R			positive	
+BA2135R		Loss of RARA gene at 17q21 is detected in 69% of cells Gain of MLL gene at 11q23 is detected in 8% of cells.	negative	
+BA2914R		Normal	positive	
+BA2406R			negative	TP53 (p.E204*; 52.3%)
+BA2924R			positive	
+BA3192R			positive	
+BA2303R			positive	
+BA2160R		Normal	positive	
+BA2590R		Normal	positive	
+BA3410R			negative	TP53 (p.R248Q; 58.8%)
+BA3206R	RUNX1-RUNX1T1	"RUNX1T1(8q21.3)/RUNX1(21q22): Ê 64% of cells had an atypical 1r/2g/1f  signal pattern, a fusion pattern consistent with t(8;21) as seen on metaphase analysis.  | All twenty metaphase cells examined were abnormal, with monosomy X and  t(8;21)."	negative	
+BA3306R		Normal	positive	
+BA3133R		"TP53 (17p13.1):  83% of cells were missing a signal for TP53, consistent with the 17p deletion seen on metaphase analysis.  | RUNX1 (21q22):  15.5% of cells were missing a signal for RUNX1. ÊNo  evidence for RUNX1/RUNX1T1 fusion.  | MECOM (3q26.2): Ê33% of cells had six (6) signals for MECOM. On available  metaphases, the extra MECOM signals hybridized to the small marker  chromosomes. ÊNo evidence for MECOM/RPN1 fusion. "	negative	TP53 (p.Q167*; 91.3%)
+BA3451R		Normal	positive	
+BA3271R		Normal	positive	
+BA3152R		"Approximately 95% of cells had abnormal signal patterns consistent with the metaphase karyotype and reflecting deleted 5q, monosomy 16, monosomy 17, and monosomy 21. "	negative	TP53 (p.Y220C; 90.9%)
+BA3362R		"In 95/100 cells (95%), three  signals for chromosome 1q25 were observed, and only two signals for 1p36  were observed, consistent with gain of 1q by der(1)t(1;1)"	negative	TP53 (p.R175H; 55.0%)
+BA3135R			positive	
+BA3098R	CBFB-MYH11	"7cen (D7Z1), 7q31 (D7S486): deletion present | 11q23 (KMT2A; also known as MLL): gain present | 16q22 (CBFB): rearrangement present"	negative	
+BA3203R		The translocations commonly seen in AML are not detected. 3 copies of RUNX1T1 gene at 8q22 are detected in 56% of cells. Loss of RUNX1 and RARA genes at 21q22 and 17q21 are detected in about 58% of cells Gain of MLL gene at 11q23 are detected in 82% of cells. (Cytogenetics)	negative	TP53 (p.P153Afs*28; 75.8%)
+BA3299R		"An apparently NORMAL KARYOTYPE was observed in all 20 mitotic cells analyzed. Specifically, there was no significant numerical chromosomal abnormality and no clonal structural aberration of any chromosome detectable within the limits of resolution.  (Cytogenetics)"	positive	
+BA3347R		Normal	positive	
+BA3114R		Normal (Clonal aberrations were not identified in metaphase cells examined by conventional cytogenetic techniques* or for any loci examined by FISH methods.)	positive	
+BA3109R			positive	
+BA3245R		"5p15.2/ 5q31 (EGR1) (ABNORMAL - Loss of 5q31 sequences) | 7 centromere/ 7q31 (ABNORMAL - Loss of 7q31 sequences, see interpretation) | 8 centromere/ 20q12 (ABNORMAL - Gain of chromosome 8 centromere, Normal 20q12) | RUNX1 (21q22.12)/ RUNX1T1(8q22) (Negative rearrangement, ABNORMAL - Gain of 8q22 sequences)"	negative	TP53 (p.L257Q; 84.5%)
+BA3085R	RUNX1-RUNX1T1	"RUNX1T1/RUNX1: Ê92/100 cells (92%) had a 1red/ 1 green/ 2 yellow fusion signal pattern, reflecting RUNX1T1/RUNX1fusion"	negative	
+BA3423R			positive	
+BA3173R	RUNX1-RUNX1T1		positive	
+BA3171R		"RUNX1T1/RUNX1: Ê86/100 cells (86%) reflecting the isochromosome 8q and the monosomy 21. ÊNo evidence for RUNX1T1/RUNX1fusion | EGR-1/ D5S23, D5S721: Ê89/100 cells (89%) consistent with missing 5q in the dicentric 5;12 | PML/RARA: ÊSignal patterns were within normal limits with no evidence for  PML/RARA fusion. ÊOne metaphase cell shows the PML (15q22) signal on the derivative 17, consistent with the metaphase karyotype | BCR/ABL/ASS: Ê72/100 cells (72%) consistent the trisomy 9 in the metaphase karyotype. ÊNo evidence  for BCR/ABL fusion.  | D7S486/ CEP 7: Ê79/100 cells (79%) consistent with missing 7q in the derivative 7 | DEK/NUP: Ê79/100 cells (79%) reflecting the trisomy 9 in the metaphase karyotype. ÊNo evidence for  DEK/NUP fusion. | MLL: Ê61/100 cells (61%) had three intact MLL signals. One metaphase cell  shows two signals on the duplicated 11q. ÊThere was no evidence for MLL rearrangement."	negative	TP53 (p.X125_splice; 75.0%)
+BA3277R		Normal	positive	
+BA3157R		Normal	positive	
+BA3433R		Normal	positive	
+BA3450R			negative	TP53
+BA3269R		Normal	positive	
+BA3156R		POSITIVE for ABL1 gene locus copy number loss | POSITIVE for PML gene locus copy number loss	negative	TP53 (p.R273C; 67.5%)
+BA3226R		Normal	positive	
+BA3421R		Normal/Negative Rearrangement	positive	
+BA3232R		Normal	positive	
+BA3384R	KMT2A_re	"MLL: Ê97/100 cells (97%) had a 0 red/ 1 green/ 1 yellow signal pattern,  partially deleting the MLL region of 11q23 and consistent with the deleted 11q in the metaphase karyotype. | RUNX1T1/RUNX1: Ê95/100 cells (95%) had a 2 red/ 3 green signal pattern, consistent with the trisomy 21 in the metaphase karyotype. There was no evidence for RUNX1T1/RUNX1fusion."	negative	
+BA3427R		"EGR1/5p: Ê 77% of cells were missing a signal for both probes, consistent  with monosomy, as seen on metaphase analysis.  | D7S486 (7q31): Ê73% of cells were missing a signal for D7S486 (7q31),  consistent deletion and with the add(7) seen on metaphase analysis. | NUP214 (9q34): Ê 64% of cells were missing a signal for NUP214 (9q34), consistent with deletion due to the der(9) seen on metaphase analysis.  (Also, deletion of 9q34 was observed using the ABL+ASS probe set on a parallel study, GL17-02579.)  | RUNX1 (21q22): Ê 55% of cells had four signals for RUNX1 (21q22); another  28% of cells had three signals. ÊOne of the four signals was on what  appeared to be a larger submetacentric chromosome, possibly the larger of  the two marker chromosomes observed on metaphase analysis. "	negative	TP53 (p.H179N; 16.9%)|TP53 (p.I195Mfs*13; 9.9%)|TP53 (p.I195Yfs*14; 11.4%)
+BA3163R	MLLT3-KMT2A	"MLL: Ê57/100 cells (57%) had the abnormal 1 red/ 1 green/1 yellow signal  pattern, reflecting MLL (11q23) rearrangement, consistent with the 9;11  translocation observed in the metaphase karyotype. | RUNX1T1/RUNX1: Ê6/200 cells (3%) had a 3 red/ 2 green signal pattern,  reflecting an extra RUNX1T1 (8q21.3) signal, consistent with the trisomy 8  clone observed in the metaphase karyotype. | CEP 8: Ê5/200 cells (2.5%) had three signals, reflecting an extra  chromosome 8 centromere signal, consistent with the trisomy 8 clone observed in the metaphase karyotype."	negative	
+BA3158R	RUNX1-RUNX1T1	"This analysis showed evidence of t(8;21)(q22;q22) (RUNX1T1-RUNX1 translocation) in 196/200 (98.0 percent) cells scored. Of these cells, 20/200 (10.0 percent) showed the translocation accompanied by an additional copy of the RUNX1 locus. "	negative	
+BA3436R		Normal	positive	
+BA3154R		Negative for 9;22 and MLL	negative	TP53 (p.V122Dfs*26; 87.5%)
+BA3162R	CBFB-MYH11	Evidence of a CBFB [inv(16)] gene rearrangement in 98% of the cells.	positive	
+BA3352R		Normal	positive	
+BA3084R	KMT2A_re	"MLL: 88% of cells had a 1g/0r/2f signal pattern, where the lone green signal was small and the green component suggesting a disruption of MLL (11q23) within the green portion of  the probe. ÊThis result is consistent with MLL rearrangement and with the t(10;11) seen on metaphase analysis."	negative	
+BA3169R	KMT2A_re	MLL (KMT2A) rearrangement in 94% of 200 cells | gain of 8q22 sequence in 94% of 200 cells	positive	
+BA3180R			positive	
+BA3255R		Normal	positive	
+BA3438R	KMT2A_re	"EGR1: Ê90% of cells were missing a signal for EGR1 (5q31), consistent with  the der(5) seen on metaphase analysis.  | MLL (11q23): Ê 97% of cells had two normal intact signals and a many other  intact signals per cells, suggesting amplification.  (On available metaphase  cells, there was clustering of amplified fused signals on two chromosomes:  in the first clone, amplified signals clustered on the der(15) and on the  marker chromosome; in the second clone, amplified signals clustered on the  der(15) and on the der(10).) | CBFB (16q22): Ê 94% of cells were missing a signal for CBFB, consistent  with del(16q) as seen on metaphase. | RUNX1/RUNX1T1+CEP8: 92% of cells had three signals for chromosome 8 probes (CEP8 and RUNX1T1) and only one signal for RUNX1 (21q22), consistent with trisomy 8. Results with the RUNX1 probe on chromosome 21 suggest that the interpretation of the chrom results as der(20;21) may be more complicated."	negative	TP53 (p.R248Q; 80.3%)
+BA3431R			positive	
+BA3197R		PML/RARA: Negative	positive	
+BA3453R			positive	
+BA3308R		"RUNX1T1: Ê22/200 cells (11%) had a 3 red/ 2 green signal  pattern, reflecting an extra RUNX1T1 (8q21.3) signal, consistent with the  trisomy 8 clone observed in the metaphase karyotype | RUNX1: 18/200 cells (9%) had a 2  red/ 3 green signal pattern, reflecting an extra RUNX1 (21q22) signal. ÊThe  extra chromosome 21 material was not apparent in the G-banded karyotype.  There was no evidence for RUNX1T1/RUNX1 fusion. | CEP8:  29/200 (14.5%) cells  scored with the CEP 8 probe had three signals, consistent with trisomy 8.  | D20S108/20p subtel: Ê6/200 cells (3%) had a 1 red/ 2 green signal pattern,  consistent with the deleted 20q in the metaphase karyotype. "	negative	TP53 (p.X187_splice; 9.3%)
+BA3186R		"MLL: Ê97/100 cells (97%) had the variant abnormal 0 red/ 1 green/1 yellow  signal pattern, reflecting MLL (11q23) rearrangement and previously  observed.  | TP53/CEP 17: Ê99/100 cells (99%) had a 1 red/ 2 green signal pattern,  reflecting TP53 deletion, previously observed and consistent with the  derivative 17 in the metaphase karyotype. | RUNX1T1/RUNX1: Ê93/100 cells (93%) had a 2-3 red/ 3-4 green signal pattern,  reflecting an extra copies of RUNX1T1 and RUNX1. ÊThere was no evidence for  RUNX1T1/RUNX1 fusion.  | CBFB: Ê96/100 cells (96%) had a single intact signal, reflecting CBFB  (16q22) loss and consistent with the monosomy 16 in the metaphase  karyotype.  | D7S486/ CEP 7: Ê99/100 cells (99%) had a 2 red/ 1 green signal pattern,  indicating loss of a chromosome 7 centromere signal with 7q material  attached to the derivative 17 in the metaphase karyotype.  | CEP 8: Ê66/100 cells (66%) had three signals, consistent with the clone  having an extra copy of the derivative 8. "	negative	TP53 (p.R248W; 71.9%)
+BA3280R			positive	
+BA3318R		67.5% of cells had an extra copy of MLL(11q23)	negative	
+BA3332R		Normal	positive	
+BA3328R		Normal	positive	
+BA3142R			negative	TP53 (p.V216M; 78.5%)
+BA3333R		Normal	positive	
+BA3225R		Normal	positive	
+BA3183R		Normal	positive	
+BA3397R		"ETV6 (12p13): 93.5% of cells were missing a signal for ETV6, consistent with 12p deletion resulting from dic(10;12).  | CEP17: 98.5% of cells were missing a signal for CEP17, consistent with monosomy 17.  | PML/RARA: 189/200 cells (94.5%) were missing a signal for RARA (17q21.2)."	negative	TP53 (p.L194R; 86.6%)
+BA3311R		"MLL (11q23):  161/200 cells (80.5%) had three intact signals for MLL, consistent with the trisomy 11 seen on metaphase analysis. "	negative	
+BA3422R		Normal	positive	
+BA3415R		"EGR-1/ D5S23, D5S721:  97/100 cells (97%) had a 1 red/ 2 green signal pattern, indicating a deleted 5q, consistent with the metaphase karyotype.  | CEP 8:  179/200 cells (89.5%) had three signals, consistent with the trisomy 8 in the metaphase karyotype.  | RUNX1T1/RUNX1:  92/100 cells (92%) had a 3 red/ 3 green signal pattern, reflecting the extra copies of chromosome 8 and chromosome 21 in the metaphase karyotype.  There was no evidence for RUNX1T1/RUNX1 fusion.  | BCR/ABL:  95/100 cells (95%) had a 3 red/ 2-3 green signal pattern, reflecting the extra copies of chromosome 9q and chromosome 22 in the metaphase karyotype.  There was no evidence for BCR/ABL fusion. | DEK/NUP214:  184/200 cells (92%) had a 3 red/ 2 green signal pattern, reflecting an extra copy of NUP214 (9q34),consistent with the extra chromosome 9q material in the metaphase karyotype.  There was no evidence for DEK/NUP214 fusion.  | TP53/CEP 17:  93/100 cells (93%) had a 1 red/ 2 green signal pattern, reflecting TP53 deletion and consistent with the deleted chromosome 17 short arm in the metaphase karyotype. "	negative	TP53 (p.R196*; 89.6%)
+BA3270R		Normal	positive	
+BA3324R		"EGR-1/ D5S23, D5S721:  193/200 cells (96.5%) had a 1 red/ 2 green signal pattern, indicating a deleted 5q, consistent with the metaphase karyotype.  | D7S522/ CEP 7:  191/200 cells (95.5%) had a 1 red/ 2 green signal pattern, indicating deleted 7q, consistent with the metaphase karyotype.  | MLL:  150/200 cells (75%) had three intact signals, consistent with the trisomy 11 in the metaphase karyotype. An additional 18 cells (9%) had four intact MLL signals.  There was no evidence for MLL rearrangement.  | CBFB:  195/200 cells (97.5%) had a single intact signal, consistent with the monosomy 16 in the metaphase karyotype.  There was no evidence for CBFB rearrangement. "	negative	TP53 (p.L194R; 88.3%)
+BA3335R		Normal	positive	
+BA3297R		Normal	positive	
+BA3227R		Normal	positive	
+BA3293R			positive	
+BA3315R		BCR/ABL: 38% of cells had three signals for BCR and another 18% of cells had three signals for BCR and for ABL/ASS.  | PML/RARA: 6% of cells had three signals for both probes. 	negative	TP53 (p.V143M; 44.0%)
+BA3386R			positive	
+BA3176R		Normal	positive	
+BA3258R		Normal	positive	
+BA3446R		Normal	positive	
+BA3390R			positive	
+BA3136R	KMT2A_re	"86/100 cells (86%) had the abnormal 1 red/ 1 green/1 yellow signal pattern, reflecting MLL (11q23) rearrangement and consistent with the 10;11 translocation observed in the metaphase karyotype. "	negative	
+BA3234R		Normal	positive	
+BA3454R		Normal	positive	
+BA3083R			positive	
+BA3266R			positive	
+BA3119R		Normal	positive	
+BA3219R		Normal	positive	
+BA3310R		Normal	positive	
+BA3200R		Normal	positive	
+BA3146R		Normal	positive	
+BA3376R		Normal	positive	
+BA3375R		Normal	positive	
+BA3385R		Normal	positive	
