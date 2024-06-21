@@ -200,7 +200,7 @@ unified <- unify(forest, testData)
 shap_values <- treeshap(unified, testData)
 
 #Making to Shapviz object
-shp <- shapviz(shap_values, x = trainData_combined)
+shp <- shapviz(shap_values, x = testData_combined)
 
 #Plotting Shap
 sv_importance(shp)
